@@ -1,4 +1,4 @@
-module Proptypes
+module PropTypes
   module Constants
     HTML_TAGS = %i[
       a abbr address area article aside audio b base bdi bdo blockquote body br

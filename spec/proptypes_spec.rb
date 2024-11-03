@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-RSpec.describe Proptypes do
+RSpec.describe PropTypes do
   describe described_class::StringOrNil do
     describe "#call" do
       it "returns nil for nil" do

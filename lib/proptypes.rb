@@ -5,7 +5,7 @@ require_relative "proptypes/version"
 require "dry-types"
 require "proptypes/constants"
 
-module Proptypes
+module PropTypes
   class Error < StandardError; end
 
   include Dry.Types()
