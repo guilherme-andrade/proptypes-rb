@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.name = "proptypes-rb"
   spec.version = Proptypes::VERSION
   spec.authors = ["Guilherme Andrade"]
-  spec.email = ["guilherme.andrade.ao@gmail.com"]
+  spec.email = ["inbox@guilherme-andrade.com"]
 
   spec.summary = "A simple set of types for validation of ruby objects."
   spec.description = "A simple set of types for validation of ruby objects."
